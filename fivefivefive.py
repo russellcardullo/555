@@ -15,7 +15,6 @@ Units of measurement in this module are specified in:
     Frequency: Hertz
 
 """
-import sys
 
 class Monostable:
     """Simulates a monostable circuit (one shot).  Initialize the class with values for R1 and C1.
